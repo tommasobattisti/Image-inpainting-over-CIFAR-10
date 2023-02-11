@@ -1,7 +1,7 @@
 # Image inpainting over CIFAR-10
 
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18n-dqxkuzpvocAZZqBeFlcgH6RLSVqnH)
 
 A repository containing the Deep Learning model developed for the Machine Learning course of the master's degree in Computer Science of the University of Bologna.
 
