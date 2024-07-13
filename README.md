@@ -2,6 +2,7 @@
 
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18n-dqxkuzpvocAZZqBeFlcgH6RLSVqnH)
+[![DOI](https://zenodo.org/badge/600516016.svg)](https://zenodo.org/doi/10.5281/zenodo.12736943)
 
 A repository containing the Deep Learning model developed for the Machine Learning course of the master's degree in Computer Science of the University of Bologna.
 
